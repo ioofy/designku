@@ -8,6 +8,7 @@ export const Nav = styled.nav`
   font-size: 1rem;
   position: sticky;
   top: 0;
+  font-family: 'BeyondTMS';
   z-index: 999;
 `
 

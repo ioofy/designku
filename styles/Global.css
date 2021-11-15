@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap');
 
 @font-face {
-  font-family: 'Grotesk';
+  font-family: 'Grotesks';
   src: local('Grotesk'), local('Grotesk'),
     url('./Font/Grotesk.otf') format('opentype');
 }
 
 @font-face {
-  font-family: 'BeyondTM';
-  src: local('BeyondTM'), local('BeyondTM'),
+  font-family: 'BeyondTMS';
+  src: local('Beyond'), local('Beyond'),
     url('./Font/Beyond.otf') format('opentype');
 }
 
@@ -20,5 +20,4 @@
 
 body {
   background-color: #f6f6f6;
-  font-family: 'BeyondTM';
 }

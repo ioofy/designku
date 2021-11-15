@@ -86,7 +86,7 @@ export const FooterContent = styled.div`
 export const FooterTitle = styled.h1`
   font-size: 40px;
   letter-spacing: 1px;
-  font-family: 'BeyondTM';
+  font-family: 'BeyondTMS';
   margin-bottom: 10px;
 `
 
@@ -112,7 +112,7 @@ export const Opener = styled.a`
 `
 
 export const FooterSubtitle = styled.h3`
-  font-family: 'Grotesk';
+  font-family: 'Grotesks';
   margin-top: 5px;
   font-size: 18px;
   font-weight: 100;

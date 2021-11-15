@@ -13,7 +13,7 @@ const ButtonCstm = styled.button`
   padding: 12px;
   width: 7.5rem;
   height: 45px;
-  font-family: 'Grotesk';
+  font-family: 'Grotesks';
   cursor: pointer;
   font-size: 15px;
 `

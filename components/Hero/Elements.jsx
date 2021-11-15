@@ -47,7 +47,7 @@ export const Heading = styled.h1`
   color: #000045;
   margin-bottom: 20px;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  font-family: 'Grotesk';
+  font-family: 'Grotesks';
 
   @media screen and (max-width: 428px) {
     font-size: 45px;
